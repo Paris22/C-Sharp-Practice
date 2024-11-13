@@ -1,0 +1,7 @@
+P:\ЯЮниор C#\C-Sharp-Practice\Variables\Variables\bin\Debug\Variables.exe.config
+P:\ЯЮниор C#\C-Sharp-Practice\Variables\Variables\bin\Debug\Variables.exe
+P:\ЯЮниор C#\C-Sharp-Practice\Variables\Variables\bin\Debug\Variables.pdb
+P:\ЯЮниор C#\C-Sharp-Practice\Variables\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+P:\ЯЮниор C#\C-Sharp-Practice\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+P:\ЯЮниор C#\C-Sharp-Practice\Variables\Variables\obj\Debug\Variables.exe
+P:\ЯЮниор C#\C-Sharp-Practice\Variables\Variables\obj\Debug\Variables.pdb
