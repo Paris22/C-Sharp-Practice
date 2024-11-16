@@ -1,0 +1,7 @@
+P:\ЯЮниор C#\C-Sharp-Practice\СrystalStore\СrystalStore\bin\Debug\СrystalStore.exe.config
+P:\ЯЮниор C#\C-Sharp-Practice\СrystalStore\СrystalStore\bin\Debug\СrystalStore.exe
+P:\ЯЮниор C#\C-Sharp-Practice\СrystalStore\СrystalStore\bin\Debug\СrystalStore.pdb
+P:\ЯЮниор C#\C-Sharp-Practice\СrystalStore\СrystalStore\obj\Debug\СrystalStore.csproj.AssemblyReference.cache
+P:\ЯЮниор C#\C-Sharp-Practice\СrystalStore\СrystalStore\obj\Debug\СrystalStore.csproj.CoreCompileInputs.cache
+P:\ЯЮниор C#\C-Sharp-Practice\СrystalStore\СrystalStore\obj\Debug\СrystalStore.exe
+P:\ЯЮниор C#\C-Sharp-Practice\СrystalStore\СrystalStore\obj\Debug\СrystalStore.pdb
