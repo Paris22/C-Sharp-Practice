@@ -1,0 +1,7 @@
+P:\ЯЮниор C#\C-Sharp-Practice\PolyclinicQueue\PolyclinicQueue\bin\Debug\PolyclinicQueue.exe.config
+P:\ЯЮниор C#\C-Sharp-Practice\PolyclinicQueue\PolyclinicQueue\bin\Debug\PolyclinicQueue.exe
+P:\ЯЮниор C#\C-Sharp-Practice\PolyclinicQueue\PolyclinicQueue\bin\Debug\PolyclinicQueue.pdb
+P:\ЯЮниор C#\C-Sharp-Practice\PolyclinicQueue\PolyclinicQueue\obj\Debug\PolyclinicQueue.csproj.AssemblyReference.cache
+P:\ЯЮниор C#\C-Sharp-Practice\PolyclinicQueue\PolyclinicQueue\obj\Debug\PolyclinicQueue.csproj.CoreCompileInputs.cache
+P:\ЯЮниор C#\C-Sharp-Practice\PolyclinicQueue\PolyclinicQueue\obj\Debug\PolyclinicQueue.exe
+P:\ЯЮниор C#\C-Sharp-Practice\PolyclinicQueue\PolyclinicQueue\obj\Debug\PolyclinicQueue.pdb
