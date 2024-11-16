@@ -1,0 +1,7 @@
+P:\ЯЮниор C#\C-Sharp-Practice\ThreeInRowTask\ThreeInRowTask\bin\Debug\ThreeInRowTask.exe.config
+P:\ЯЮниор C#\C-Sharp-Practice\ThreeInRowTask\ThreeInRowTask\bin\Debug\ThreeInRowTask.exe
+P:\ЯЮниор C#\C-Sharp-Practice\ThreeInRowTask\ThreeInRowTask\bin\Debug\ThreeInRowTask.pdb
+P:\ЯЮниор C#\C-Sharp-Practice\ThreeInRowTask\ThreeInRowTask\obj\Debug\ThreeInRowTask.csproj.AssemblyReference.cache
+P:\ЯЮниор C#\C-Sharp-Practice\ThreeInRowTask\ThreeInRowTask\obj\Debug\ThreeInRowTask.csproj.CoreCompileInputs.cache
+P:\ЯЮниор C#\C-Sharp-Practice\ThreeInRowTask\ThreeInRowTask\obj\Debug\ThreeInRowTask.exe
+P:\ЯЮниор C#\C-Sharp-Practice\ThreeInRowTask\ThreeInRowTask\obj\Debug\ThreeInRowTask.pdb
