@@ -1,0 +1,7 @@
+P:\ЯЮниор C#\C-Sharp-Practice\Strings\Strings\bin\Debug\Strings.exe.config
+P:\ЯЮниор C#\C-Sharp-Practice\Strings\Strings\bin\Debug\Strings.exe
+P:\ЯЮниор C#\C-Sharp-Practice\Strings\Strings\bin\Debug\Strings.pdb
+P:\ЯЮниор C#\C-Sharp-Practice\Strings\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+P:\ЯЮниор C#\C-Sharp-Practice\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+P:\ЯЮниор C#\C-Sharp-Practice\Strings\Strings\obj\Debug\Strings.exe
+P:\ЯЮниор C#\C-Sharp-Practice\Strings\Strings\obj\Debug\Strings.pdb
