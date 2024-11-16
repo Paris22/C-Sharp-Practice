@@ -9,6 +9,7 @@ namespace PolyclinicQueue
             int personsNumber;
             int timePerPerson = 10;
 
+            int timeInQueue;
             int hoursInQueue;
             int minutesInQueue;
 
@@ -17,8 +18,10 @@ namespace PolyclinicQueue
             Console.Write("Вы приходите в поликлинику и видите очередь... Кол-во людей в очереди: ");
             personsNumber = Convert.ToInt32(Console.ReadLine());
 
-            hoursInQueue = personsNumber * timePerPerson / minutesToHoursConverter;
-            minutesInQueue = personsNumber * timePerPerson % minutesToHoursConverter;
+            timeInQueue = personsNumber * timePerPerson;
+
+            hoursInQueue = timeInQueue / minutesToHoursConverter;
+            minutesInQueue = timeInQueue % minutesToHoursConverter;
 
             Console.WriteLine($"Время, которое Вам нужно отстоять в очереди: кол-во часов - {hoursInQueue}, кол-во минут - {minutesInQueue}");
         }
