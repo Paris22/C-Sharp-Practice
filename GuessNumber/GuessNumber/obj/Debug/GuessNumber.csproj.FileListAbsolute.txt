@@ -1,0 +1,7 @@
+P:\ЯЮниор C#\C-Sharp-Practice\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe.config
+P:\ЯЮниор C#\C-Sharp-Practice\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe
+P:\ЯЮниор C#\C-Sharp-Practice\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
+P:\ЯЮниор C#\C-Sharp-Practice\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csproj.AssemblyReference.cache
+P:\ЯЮниор C#\C-Sharp-Practice\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csproj.CoreCompileInputs.cache
+P:\ЯЮниор C#\C-Sharp-Practice\GuessNumber\GuessNumber\obj\Debug\GuessNumber.exe
+P:\ЯЮниор C#\C-Sharp-Practice\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb

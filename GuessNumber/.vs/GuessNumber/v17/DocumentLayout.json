@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\\u042F\u042E\u043D\u0438\u043E\u0440 C#\\C-Sharp-Practice\\GuessNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9C58BA-E0BF-4B4E-B477-3B239EB5207A}|GuessNumber\\GuessNumber.csproj|p:\\\u044F\u044E\u043D\u0438\u043E\u0440 c#\\c-sharp-practice\\guessnumber\\guessnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9C58BA-E0BF-4B4E-B477-3B239EB5207A}|GuessNumber\\GuessNumber.csproj|solutionrelative:guessnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\\u042F\u042E\u043D\u0438\u043E\u0440 C#\\C-Sharp-Practice\\GuessNumber\\GuessNumber\\Program.cs",
+              "RelativeDocumentMoniker": "GuessNumber\\Program.cs",
+              "ToolTip": "P:\\\u042F\u042E\u043D\u0438\u043E\u0440 C#\\C-Sharp-Practice\\GuessNumber\\GuessNumber\\Program.cs",
+              "RelativeToolTip": "GuessNumber\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T05:00:59.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
