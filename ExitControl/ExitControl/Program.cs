@@ -6,14 +6,18 @@ namespace ExitControl
     {
         static void Main(string[] args)
         {
-            string inputMessage;
+            string userInputMessage;
+            string exitText = "exit";
 
-            Console.WriteLine("Введите сообщение. Если не хотите больше вводить сообщение, то введите 'exit'");
-            inputMessage = Console.ReadLine();
+            string enterMessageText = $"Введите сообщение. Если не хотите больше вводить сообщение, то введите {exitText}";
 
-            while (inputMessage != "exit")
+            Console.WriteLine(enterMessageText);
+            userInputMessage = Console.ReadLine();
+
+            while (userInputMessage != exitText)
             {
-                Console.WriteLine("Введите сообщение. Если не хотите больше вводить сообщение, то введите 'exit'");
+                Console.WriteLine(enterMessageText);
+                userInputMessage = Console.ReadLine();
             }
         }
     }
