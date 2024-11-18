@@ -1,0 +1,7 @@
+P:\ЯЮниор C#\C-Sharp-Practice\ConsoleMenu\ConsoleMenu\bin\Debug\ConsoleMenu.exe.config
+P:\ЯЮниор C#\C-Sharp-Practice\ConsoleMenu\ConsoleMenu\bin\Debug\ConsoleMenu.exe
+P:\ЯЮниор C#\C-Sharp-Practice\ConsoleMenu\ConsoleMenu\bin\Debug\ConsoleMenu.pdb
+P:\ЯЮниор C#\C-Sharp-Practice\ConsoleMenu\ConsoleMenu\obj\Debug\ConsoleMenu.csproj.AssemblyReference.cache
+P:\ЯЮниор C#\C-Sharp-Practice\ConsoleMenu\ConsoleMenu\obj\Debug\ConsoleMenu.csproj.CoreCompileInputs.cache
+P:\ЯЮниор C#\C-Sharp-Practice\ConsoleMenu\ConsoleMenu\obj\Debug\ConsoleMenu.exe
+P:\ЯЮниор C#\C-Sharp-Practice\ConsoleMenu\ConsoleMenu\obj\Debug\ConsoleMenu.pdb
