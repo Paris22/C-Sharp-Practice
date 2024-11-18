@@ -1,0 +1,7 @@
+P:\ЯЮниор C#\C-Sharp-Practice\NumberSequence\NumberSequence\bin\Debug\NumberSequence.exe.config
+P:\ЯЮниор C#\C-Sharp-Practice\NumberSequence\NumberSequence\bin\Debug\NumberSequence.exe
+P:\ЯЮниор C#\C-Sharp-Practice\NumberSequence\NumberSequence\bin\Debug\NumberSequence.pdb
+P:\ЯЮниор C#\C-Sharp-Practice\NumberSequence\NumberSequence\obj\Debug\NumberSequence.csproj.AssemblyReference.cache
+P:\ЯЮниор C#\C-Sharp-Practice\NumberSequence\NumberSequence\obj\Debug\NumberSequence.csproj.CoreCompileInputs.cache
+P:\ЯЮниор C#\C-Sharp-Practice\NumberSequence\NumberSequence\obj\Debug\NumberSequence.exe
+P:\ЯЮниор C#\C-Sharp-Practice\NumberSequence\NumberSequence\obj\Debug\NumberSequence.pdb
