@@ -1,0 +1,7 @@
+P:\ЯЮниор C#\C-Sharp-Practice\Cycles\Cycles\bin\Debug\Cycles.exe.config
+P:\ЯЮниор C#\C-Sharp-Practice\Cycles\Cycles\bin\Debug\Cycles.exe
+P:\ЯЮниор C#\C-Sharp-Practice\Cycles\Cycles\bin\Debug\Cycles.pdb
+P:\ЯЮниор C#\C-Sharp-Practice\Cycles\Cycles\obj\Debug\Cycles.csproj.AssemblyReference.cache
+P:\ЯЮниор C#\C-Sharp-Practice\Cycles\Cycles\obj\Debug\Cycles.csproj.CoreCompileInputs.cache
+P:\ЯЮниор C#\C-Sharp-Practice\Cycles\Cycles\obj\Debug\Cycles.exe
+P:\ЯЮниор C#\C-Sharp-Practice\Cycles\Cycles\obj\Debug\Cycles.pdb
