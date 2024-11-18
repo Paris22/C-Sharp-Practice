@@ -1,0 +1,7 @@
+P:\ЯЮниор C#\C-Sharp-Practice\NumbersSumWithCondition\NumbersSumWithCondition\bin\Debug\NumbersSumWithCondition.exe.config
+P:\ЯЮниор C#\C-Sharp-Practice\NumbersSumWithCondition\NumbersSumWithCondition\bin\Debug\NumbersSumWithCondition.exe
+P:\ЯЮниор C#\C-Sharp-Practice\NumbersSumWithCondition\NumbersSumWithCondition\bin\Debug\NumbersSumWithCondition.pdb
+P:\ЯЮниор C#\C-Sharp-Practice\NumbersSumWithCondition\NumbersSumWithCondition\obj\Debug\NumbersSumWithCondition.csproj.AssemblyReference.cache
+P:\ЯЮниор C#\C-Sharp-Practice\NumbersSumWithCondition\NumbersSumWithCondition\obj\Debug\NumbersSumWithCondition.csproj.CoreCompileInputs.cache
+P:\ЯЮниор C#\C-Sharp-Practice\NumbersSumWithCondition\NumbersSumWithCondition\obj\Debug\NumbersSumWithCondition.exe
+P:\ЯЮниор C#\C-Sharp-Practice\NumbersSumWithCondition\NumbersSumWithCondition\obj\Debug\NumbersSumWithCondition.pdb
