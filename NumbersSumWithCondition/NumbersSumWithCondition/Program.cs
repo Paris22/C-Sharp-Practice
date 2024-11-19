@@ -6,17 +6,21 @@ namespace NumbersSumWithCondition
     {
         static void Main(string[] args)
         {
-            Random rand = new Random();
+            Random random = new Random();
+
             int numbersSum = 0;
-            int number = rand.Next(100);
+            int numberRandomLimit = 100;
+            int firstMultiplicityConditionNumber = 3;
+            int secondMultiplicityConditionNumber = 5;
+            int number = random.Next(numberRandomLimit);
 
             for (int i = 0; i <= number; i++) {
-                if (i % 3 == 0 || i % 5 == 0) {
+                if (i % firstMultiplicityConditionNumber == 0 || i % secondMultiplicityConditionNumber == 0) {
                     numbersSum += i;
                 }
             }
 
-            Console.WriteLine($"Сумма всех положительных чисел меньше или равных {number}, которые кратны 3 или 5 - {numbersSum}");
+            Console.WriteLine($"Сумма всех положительных чисел меньше или равных {number}, которые кратны {firstMultiplicityConditionNumber} или {secondMultiplicityConditionNumber} - {numbersSum}");
         }
     }
 }
