@@ -1,0 +1,7 @@
+P:\ЯЮниор C#\C-Sharp-Practice\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+P:\ЯЮниор C#\C-Sharp-Practice\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+P:\ЯЮниор C#\C-Sharp-Practice\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+P:\ЯЮниор C#\C-Sharp-Practice\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.AssemblyReference.cache
+P:\ЯЮниор C#\C-Sharp-Practice\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+P:\ЯЮниор C#\C-Sharp-Practice\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+P:\ЯЮниор C#\C-Sharp-Practice\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
