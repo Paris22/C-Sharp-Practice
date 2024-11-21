@@ -57,6 +57,7 @@ namespace CurrencyConverter
                     case CommandConvertRubToDol:
                         Console.WriteLine($"Сколько рублей хотите обменять? Курс {RubToDolExchangeRate} рублей - {oneCurrency} доллар");
                         requestedCurrency = Convert.ToSingle(Console.ReadLine());
+
                         if (userRubles >= requestedCurrency)
                         {
                             userRubles -= requestedCurrency;
@@ -66,11 +67,13 @@ namespace CurrencyConverter
                         {
                             Console.WriteLine("У вас недостаточно рублей!");
                         }
+
                         break;
 
                     case CommandConvertRubToEuro:
                         Console.WriteLine($"Сколько рублей хотите обменять? Курс {RubToEuroExchangeRate} рублей - {oneCurrency} евро");
                         requestedCurrency = Convert.ToSingle(Console.ReadLine());
+
                         if (userRubles >= requestedCurrency)
                         {
                             userRubles -= requestedCurrency;
@@ -80,11 +83,13 @@ namespace CurrencyConverter
                         {
                             Console.WriteLine("У вас недостаточно рублей!");
                         }
+
                         break;
 
                     case CommandConvertDolToRub:
                         Console.WriteLine($"Сколько долларов хотите обменять? Курс {DolToRubExchangeRate} долларов - {oneCurrency} рубль");
                         requestedCurrency = Convert.ToSingle(Console.ReadLine());
+
                         if (userDollars >= requestedCurrency)
                         {
                             userDollars -= requestedCurrency;
@@ -94,11 +99,13 @@ namespace CurrencyConverter
                         {
                             Console.WriteLine("У вас недостаточно долларов!");
                         }
+
                         break;
 
                     case CommandConvertEuroToRub:
                         Console.WriteLine($"Сколько евро хотите обменять? Курс {EuroToRubExchangeRate} евро - {oneCurrency} рубль");
                         requestedCurrency = Convert.ToSingle(Console.ReadLine());
+
                         if (userEuros >= requestedCurrency)
                         {
                             userEuros -= requestedCurrency;
@@ -108,11 +115,13 @@ namespace CurrencyConverter
                         {
                             Console.WriteLine("У вас недостаточно евро!");
                         }
+
                         break;
 
                     case CommandConvertDolToEuro:
                         Console.WriteLine($"Сколько долларов хотите обменять? Курс {DolToEuroExchangeRate} долларов - {oneCurrency} евро");
                         requestedCurrency = Convert.ToSingle(Console.ReadLine());
+
                         if (userDollars >= requestedCurrency)
                         {
                             userDollars -= requestedCurrency;
@@ -122,11 +131,13 @@ namespace CurrencyConverter
                         {
                             Console.WriteLine("У вас недостаточно долларов!");
                         }
+
                         break;
 
                     case CommandConvertEuroToDol:
                         Console.WriteLine($"Сколько евро хотите обменять? Курс {EuroToDolExchangeRate} евро - {oneCurrency} доллар");
                         requestedCurrency = Convert.ToSingle(Console.ReadLine());
+
                         if (userEuros >= requestedCurrency)
                         {
                             userEuros -= requestedCurrency;
@@ -136,6 +147,7 @@ namespace CurrencyConverter
                         {
                             Console.WriteLine("У вас недостаточно евро!");
                         }
+
                         break;
 
                     case CommandConsoleExit:
