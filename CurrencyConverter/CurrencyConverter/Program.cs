@@ -21,12 +21,12 @@ namespace CurrencyConverter
             string userInput;
             float requestedCurrency;
 
-            float RubToDolExchangeRate = 100;
-            float RubToEuroExchangeRate = 106;
-            float DolToEuroExchangeRate = 1.06f;
-            float DolToRubExchangeRate = 0.011f;
-            float EuroToRubExchangeRate = 0.01f;
-            float EuroToDolExchangeRate = 0.95f;
+            float rubToDolExchangeRate = 100;
+            float rubToEuroExchangeRate = 106;
+            float dolToEuroExchangeRate = 1.06f;
+            float dolToRubExchangeRate = 0.011f;
+            float euroToRubExchangeRate = 0.01f;
+            float euroToDolExchangeRate = 0.95f;
             string oneCurrency = "1";
 
             Console.WriteLine("Добро пожаловать в конвертер валют! Введите количество каждой валюты на Вашем балансе...");
@@ -55,13 +55,13 @@ namespace CurrencyConverter
                 switch (userInput)
                 {
                     case CommandConvertRubToDol:
-                        Console.WriteLine($"Сколько рублей хотите обменять? Курс {RubToDolExchangeRate} рублей - {oneCurrency} доллар");
+                        Console.WriteLine($"Сколько рублей хотите обменять? Курс {rubToDolExchangeRate} рублей - {oneCurrency} доллар");
                         requestedCurrency = Convert.ToSingle(Console.ReadLine());
 
                         if (userRubles >= requestedCurrency)
                         {
                             userRubles -= requestedCurrency;
-                            userDollars += requestedCurrency / RubToDolExchangeRate;
+                            userDollars += requestedCurrency / rubToDolExchangeRate;
                         }
                         else
                         {
@@ -71,13 +71,13 @@ namespace CurrencyConverter
                         break;
 
                     case CommandConvertRubToEuro:
-                        Console.WriteLine($"Сколько рублей хотите обменять? Курс {RubToEuroExchangeRate} рублей - {oneCurrency} евро");
+                        Console.WriteLine($"Сколько рублей хотите обменять? Курс {rubToEuroExchangeRate} рублей - {oneCurrency} евро");
                         requestedCurrency = Convert.ToSingle(Console.ReadLine());
 
                         if (userRubles >= requestedCurrency)
                         {
                             userRubles -= requestedCurrency;
-                            userEuros += requestedCurrency / RubToEuroExchangeRate;
+                            userEuros += requestedCurrency / rubToEuroExchangeRate;
                         }
                         else
                         {
@@ -87,13 +87,13 @@ namespace CurrencyConverter
                         break;
 
                     case CommandConvertDolToRub:
-                        Console.WriteLine($"Сколько долларов хотите обменять? Курс {DolToRubExchangeRate} долларов - {oneCurrency} рубль");
+                        Console.WriteLine($"Сколько долларов хотите обменять? Курс {dolToRubExchangeRate} долларов - {oneCurrency} рубль");
                         requestedCurrency = Convert.ToSingle(Console.ReadLine());
 
                         if (userDollars >= requestedCurrency)
                         {
                             userDollars -= requestedCurrency;
-                            userRubles += requestedCurrency / DolToRubExchangeRate;
+                            userRubles += requestedCurrency / dolToRubExchangeRate;
                         }
                         else
                         {
@@ -103,13 +103,13 @@ namespace CurrencyConverter
                         break;
 
                     case CommandConvertEuroToRub:
-                        Console.WriteLine($"Сколько евро хотите обменять? Курс {EuroToRubExchangeRate} евро - {oneCurrency} рубль");
+                        Console.WriteLine($"Сколько евро хотите обменять? Курс {euroToRubExchangeRate} евро - {oneCurrency} рубль");
                         requestedCurrency = Convert.ToSingle(Console.ReadLine());
 
                         if (userEuros >= requestedCurrency)
                         {
                             userEuros -= requestedCurrency;
-                            userRubles += requestedCurrency / EuroToRubExchangeRate;
+                            userRubles += requestedCurrency / euroToRubExchangeRate;
                         }
                         else
                         {
@@ -119,13 +119,13 @@ namespace CurrencyConverter
                         break;
 
                     case CommandConvertDolToEuro:
-                        Console.WriteLine($"Сколько долларов хотите обменять? Курс {DolToEuroExchangeRate} долларов - {oneCurrency} евро");
+                        Console.WriteLine($"Сколько долларов хотите обменять? Курс {dolToEuroExchangeRate} долларов - {oneCurrency} евро");
                         requestedCurrency = Convert.ToSingle(Console.ReadLine());
 
                         if (userDollars >= requestedCurrency)
                         {
                             userDollars -= requestedCurrency;
-                            userEuros += requestedCurrency / DolToEuroExchangeRate;
+                            userEuros += requestedCurrency / dolToEuroExchangeRate;
                         }
                         else
                         {
@@ -135,13 +135,13 @@ namespace CurrencyConverter
                         break;
 
                     case CommandConvertEuroToDol:
-                        Console.WriteLine($"Сколько евро хотите обменять? Курс {EuroToDolExchangeRate} евро - {oneCurrency} доллар");
+                        Console.WriteLine($"Сколько евро хотите обменять? Курс {euroToDolExchangeRate} евро - {oneCurrency} доллар");
                         requestedCurrency = Convert.ToSingle(Console.ReadLine());
 
                         if (userEuros >= requestedCurrency)
                         {
                             userEuros -= requestedCurrency;
-                            userDollars += requestedCurrency / EuroToDolExchangeRate;
+                            userDollars += requestedCurrency / euroToDolExchangeRate;
                         }
                         else
                         {
