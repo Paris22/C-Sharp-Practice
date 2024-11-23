@@ -1,0 +1,7 @@
+P:\ЯЮниор C#\C-Sharp-Practice\NameOutput\NameOutput\bin\Debug\NameOutput.exe.config
+P:\ЯЮниор C#\C-Sharp-Practice\NameOutput\NameOutput\bin\Debug\NameOutput.exe
+P:\ЯЮниор C#\C-Sharp-Practice\NameOutput\NameOutput\bin\Debug\NameOutput.pdb
+P:\ЯЮниор C#\C-Sharp-Practice\NameOutput\NameOutput\obj\Debug\NameOutput.csproj.AssemblyReference.cache
+P:\ЯЮниор C#\C-Sharp-Practice\NameOutput\NameOutput\obj\Debug\NameOutput.csproj.CoreCompileInputs.cache
+P:\ЯЮниор C#\C-Sharp-Practice\NameOutput\NameOutput\obj\Debug\NameOutput.exe
+P:\ЯЮниор C#\C-Sharp-Practice\NameOutput\NameOutput\obj\Debug\NameOutput.pdb
