@@ -17,14 +17,12 @@ namespace NameOutput
             Console.WriteLine("Введите символ, из которого будет сделан прямоугольник вокруг имени!");
             userInputBorderChar = Console.ReadLine();
 
-            int borderWidth = userInputName.Length + 2;
+            nameLine = $"{userInputBorderChar}{userInputName}{userInputBorderChar}";
 
-            for (int i = 0; i < borderWidth; i++)
+            for (int i = 0; i < nameLine.Length; i++)
             {
                 borderLine += userInputBorderChar;
             }
-
-            nameLine = $"{userInputBorderChar}{userInputName}{userInputBorderChar}";
 
             Console.WriteLine(borderLine);
             Console.WriteLine(nameLine);
