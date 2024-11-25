@@ -10,12 +10,12 @@ namespace PasswordProgram
             string userInput;
             string secretMessage = "Секретное сообщение";
 
-            int tryCounter = 0;
+            int tryCounter;
             int maxTries = 3;
 
             Console.WriteLine("Введите пароль!");
 
-            while (tryCounter < maxTries)
+            for (tryCounter = 0; tryCounter < maxTries; tryCounter++)
             {
                 userInput = Console.ReadLine();
 
@@ -27,7 +27,6 @@ namespace PasswordProgram
                 else
                 {
                     Console.WriteLine("Неверный пароль. Ввведите пароль еще раз!");
-                    tryCounter++;
                 }
 
             }
