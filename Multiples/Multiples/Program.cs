@@ -10,17 +10,17 @@ namespace Multiples
             int N = random.Next(10, 26);
             Console.WriteLine($"Сгенерированное число N: {N}");
 
-            int count = 0;
+            int multipleCount = 0;
             for (int i = 50; i <= 150; i++)
             {
 
                 if (IsMultiple(i, N))
                 {
-                    count++;
+                    multipleCount++;
                 }
             }
 
-            Console.WriteLine($"Количество чисел от 50 до 150, кратных {N}: {count}");
+            Console.WriteLine($"Количество чисел от 50 до 150, кратных {N}: {multipleCount}");
         }
 
         static bool IsMultiple(int number, int divisor)
