@@ -1,0 +1,7 @@
+P:\ЯЮниор C#\C-Sharp-Practice\Multiples\Multiples\bin\Debug\Multiples.exe.config
+P:\ЯЮниор C#\C-Sharp-Practice\Multiples\Multiples\bin\Debug\Multiples.exe
+P:\ЯЮниор C#\C-Sharp-Practice\Multiples\Multiples\bin\Debug\Multiples.pdb
+P:\ЯЮниор C#\C-Sharp-Practice\Multiples\Multiples\obj\Debug\Multiples.csproj.AssemblyReference.cache
+P:\ЯЮниор C#\C-Sharp-Practice\Multiples\Multiples\obj\Debug\Multiples.csproj.CoreCompileInputs.cache
+P:\ЯЮниор C#\C-Sharp-Practice\Multiples\Multiples\obj\Debug\Multiples.exe
+P:\ЯЮниор C#\C-Sharp-Practice\Multiples\Multiples\obj\Debug\Multiples.pdb

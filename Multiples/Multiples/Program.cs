@@ -8,34 +8,27 @@ namespace Multiples
         {
             Random random = new Random();
             int N = random.Next(10, 26);
+            int multipleCount = 0;
+
             Console.WriteLine($"Сгенерированное число N: {N}");
 
-            int multipleCount = 0;
-            for (int i = 50; i <= 150; i++)
+            for (int rangeNumber = 50; rangeNumber <= 150; rangeNumber++)
             {
+                int currentDivisor = N;
 
-                if (IsMultiple(i, N))
+                while (currentDivisor <= rangeNumber)
                 {
-                    multipleCount++;
+
+                    if (currentDivisor == rangeNumber)
+                    {
+                        multipleCount++;
+                    }
+
+                    currentDivisor += N;
                 }
             }
 
             Console.WriteLine($"Количество чисел от 50 до 150, кратных {N}: {multipleCount}");
-        }
-
-        static bool IsMultiple(int number, int divisor)
-        {
-
-            int current = divisor;
-            while (current <= number)
-            {
-                if (current == number)
-                {
-                    return true;
-                }
-                current += divisor;
-            }
-            return false;
         }
     }
 }
