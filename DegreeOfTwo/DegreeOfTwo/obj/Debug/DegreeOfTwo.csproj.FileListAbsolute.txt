@@ -1,0 +1,7 @@
+P:\ЯЮниор C#\C-Sharp-Practice\DegreeOfTwo\DegreeOfTwo\bin\Debug\DegreeOfTwo.exe.config
+P:\ЯЮниор C#\C-Sharp-Practice\DegreeOfTwo\DegreeOfTwo\bin\Debug\DegreeOfTwo.exe
+P:\ЯЮниор C#\C-Sharp-Practice\DegreeOfTwo\DegreeOfTwo\bin\Debug\DegreeOfTwo.pdb
+P:\ЯЮниор C#\C-Sharp-Practice\DegreeOfTwo\DegreeOfTwo\obj\Debug\DegreeOfTwo.csproj.AssemblyReference.cache
+P:\ЯЮниор C#\C-Sharp-Practice\DegreeOfTwo\DegreeOfTwo\obj\Debug\DegreeOfTwo.csproj.CoreCompileInputs.cache
+P:\ЯЮниор C#\C-Sharp-Practice\DegreeOfTwo\DegreeOfTwo\obj\Debug\DegreeOfTwo.exe
+P:\ЯЮниор C#\C-Sharp-Practice\DegreeOfTwo\DegreeOfTwo\obj\Debug\DegreeOfTwo.pdb
