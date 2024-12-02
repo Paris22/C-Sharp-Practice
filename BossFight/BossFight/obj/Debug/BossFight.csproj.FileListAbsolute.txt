@@ -1,0 +1,7 @@
+P:\ЯЮниор C#\C-Sharp-Practice\BossFight\BossFight\bin\Debug\BossFight.exe.config
+P:\ЯЮниор C#\C-Sharp-Practice\BossFight\BossFight\bin\Debug\BossFight.exe
+P:\ЯЮниор C#\C-Sharp-Practice\BossFight\BossFight\bin\Debug\BossFight.pdb
+P:\ЯЮниор C#\C-Sharp-Practice\BossFight\BossFight\obj\Debug\BossFight.csproj.AssemblyReference.cache
+P:\ЯЮниор C#\C-Sharp-Practice\BossFight\BossFight\obj\Debug\BossFight.csproj.CoreCompileInputs.cache
+P:\ЯЮниор C#\C-Sharp-Practice\BossFight\BossFight\obj\Debug\BossFight.exe
+P:\ЯЮниор C#\C-Sharp-Practice\BossFight\BossFight\obj\Debug\BossFight.pdb

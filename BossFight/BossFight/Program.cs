@@ -12,13 +12,16 @@ namespace BossFight
             const string CommandHeroHeal = "4";
 
             int bossHealth = 100;
-            int bossAttack = 15;
+            int bossAttackDamage = 15;
 
-            int heroHealth = 75;
-            int heroMana = 100;
+            int currentHeroHealth = 75;
+            int currentHeroMana = 100;
+            int maxHeroHealth = 75;
+            int maxHeroMana = 100;
+
             int heroBaseAttackDamage = 10;
             int heroFireballDamage = 25;
-            int heroFireballManaCost = 45;
+            int heroFireballManaCost = 55;
             int heroFireballExplosionDamage = 35;
             bool isFireballUsed = false;
             int heroHealPoints = 25;
@@ -26,12 +29,10 @@ namespace BossFight
 
             string userInput;
 
-            Console.WriteLine($"Здоровье босса - {bossHealth}, наносимый боссом урон - {bossAttack}");
-            Console.WriteLine($"Здоровье героя - {heroHealth}, мана героя - {heroMana}");
-
-
-            while (bossHealth > 0 && heroHealth > 0)
+            while (bossHealth > 0 && currentHeroHealth > 0)
             {
+                Console.WriteLine($"Здоровье босса - {bossHealth}, наносимый боссом урон - {bossAttackDamage}");
+                Console.WriteLine($"Здоровье героя - {currentHeroHealth}, мана героя - {currentHeroMana}");
 
                 Console.WriteLine("Что будете делать в битве с боссом?");
                 Console.WriteLine($"{CommandHeroBaseAttack} - Ударить обычной атакой");
@@ -48,10 +49,10 @@ namespace BossFight
                         break;
 
                     case CommandHeroFireball:
-                        if (heroMana >= heroFireballManaCost)
+                        if (currentHeroMana >= heroFireballManaCost)
                         {
                             bossHealth -= heroFireballDamage;
-                            heroMana -= heroFireballManaCost;
+                            currentHeroMana -= heroFireballManaCost;
                             isFireballUsed = true;
                         }
 
@@ -65,8 +66,47 @@ namespace BossFight
                         }
 
                         break;
+
+                    case CommandHeroHeal:
+                        if (maxHeroHealUse > 0 && (currentHeroHealth < maxHeroHealth || currentHeroMana < maxHeroMana))
+                        {
+                            if (currentHeroHealth < maxHeroHealth && currentHeroHealth + heroHealPoints > maxHeroHealth)
+                            {
+                                currentHeroHealth = maxHeroHealth;
+                            }
+                            else if (currentHeroHealth < maxHeroHealth) { currentHeroHealth += heroHealPoints; }
+
+                            if (currentHeroMana < maxHeroMana && currentHeroMana + heroHealPoints > maxHeroMana)
+                            {
+                                currentHeroMana = maxHeroMana;
+                            }
+                            else if (currentHeroMana < maxHeroMana) { currentHeroMana = maxHeroMana; }
+
+                            maxHeroHealUse -= 1;
+                        }
+
+                        break;
+
+                    default:
+                        Console.WriteLine("Такой команды нет... Ты пропускаешь ход...");
+                        break;
                 }
 
+                Console.WriteLine($"Босс также совершает атаку и наносит тебе {bossAttackDamage} урона");
+                currentHeroHealth -= bossAttackDamage;
+            }
+
+            if (currentHeroHealth <= 0 && bossHealth <= 0)
+            {
+                Console.WriteLine("Ничья! Босс и герой погибли...");
+            }
+            else if (currentHeroHealth <= 0)
+            {
+                Console.WriteLine("Герой побежден... Ты проиграл!");
+            }
+            else if (bossHealth <= 0)
+            {
+                Console.WriteLine("Босс побежден... Ты победил!");
             }
         }
     }
