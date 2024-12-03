@@ -68,17 +68,19 @@ namespace BossFight
                     case CommandHeroHeal:
                         if (maxHeroHealUse > 0 && (currentHeroHealth < maxHeroHealth || currentHeroMana < maxHeroMana))
                         {
-                            if (currentHeroHealth < maxHeroHealth && currentHeroHealth + heroHealPoints > maxHeroHealth)
+                            currentHeroHealth += heroHealPoints;
+
+                            if (currentHeroHealth > maxHeroHealth)
                             {
                                 currentHeroHealth = maxHeroHealth;
                             }
-                            else if (currentHeroHealth < maxHeroHealth) { currentHeroHealth += heroHealPoints; }
 
-                            if (currentHeroMana < maxHeroMana && currentHeroMana + heroHealPoints > maxHeroMana)
+                            currentHeroMana += maxHeroMana;
+
+                            if (currentHeroMana > maxHeroMana)
                             {
                                 currentHeroMana = maxHeroMana;
                             }
-                            else if (currentHeroMana < maxHeroMana) { currentHeroMana = maxHeroMana; }
 
                             maxHeroHealUse -= 1;
                         }
