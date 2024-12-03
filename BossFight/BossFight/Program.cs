@@ -55,7 +55,6 @@ namespace BossFight
                             currentHeroMana -= heroFireballManaCost;
                             isFireballUsed = true;
                         }
-
                         break;
 
                     case CommandHeroFireballExplosion:
@@ -64,7 +63,6 @@ namespace BossFight
                             bossHealth -= heroFireballExplosionDamage;
                             isFireballUsed = false;
                         }
-
                         break;
 
                     case CommandHeroHeal:
@@ -84,7 +82,6 @@ namespace BossFight
 
                             maxHeroHealUse -= 1;
                         }
-
                         break;
 
                     default:
