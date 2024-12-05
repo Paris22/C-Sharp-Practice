@@ -1,0 +1,7 @@
+P:\ЯЮниор C#\C-Sharp-Practice\SpecificColumnRow\SpecificColumnRow\bin\Debug\SpecificColumnRow.exe.config
+P:\ЯЮниор C#\C-Sharp-Practice\SpecificColumnRow\SpecificColumnRow\bin\Debug\SpecificColumnRow.exe
+P:\ЯЮниор C#\C-Sharp-Practice\SpecificColumnRow\SpecificColumnRow\bin\Debug\SpecificColumnRow.pdb
+P:\ЯЮниор C#\C-Sharp-Practice\SpecificColumnRow\SpecificColumnRow\obj\Debug\SpecificColumnRow.csproj.AssemblyReference.cache
+P:\ЯЮниор C#\C-Sharp-Practice\SpecificColumnRow\SpecificColumnRow\obj\Debug\SpecificColumnRow.csproj.CoreCompileInputs.cache
+P:\ЯЮниор C#\C-Sharp-Practice\SpecificColumnRow\SpecificColumnRow\obj\Debug\SpecificColumnRow.exe
+P:\ЯЮниор C#\C-Sharp-Practice\SpecificColumnRow\SpecificColumnRow\obj\Debug\SpecificColumnRow.pdb
