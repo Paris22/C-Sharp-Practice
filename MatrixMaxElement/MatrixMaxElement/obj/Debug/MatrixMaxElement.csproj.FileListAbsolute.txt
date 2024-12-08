@@ -1,0 +1,7 @@
+P:\ЯЮниор C#\C-Sharp-Practice\MatrixMaxElement\MatrixMaxElement\bin\Debug\MatrixMaxElement.exe.config
+P:\ЯЮниор C#\C-Sharp-Practice\MatrixMaxElement\MatrixMaxElement\bin\Debug\MatrixMaxElement.exe
+P:\ЯЮниор C#\C-Sharp-Practice\MatrixMaxElement\MatrixMaxElement\bin\Debug\MatrixMaxElement.pdb
+P:\ЯЮниор C#\C-Sharp-Practice\MatrixMaxElement\MatrixMaxElement\obj\Debug\MatrixMaxElement.csproj.AssemblyReference.cache
+P:\ЯЮниор C#\C-Sharp-Practice\MatrixMaxElement\MatrixMaxElement\obj\Debug\MatrixMaxElement.csproj.CoreCompileInputs.cache
+P:\ЯЮниор C#\C-Sharp-Practice\MatrixMaxElement\MatrixMaxElement\obj\Debug\MatrixMaxElement.exe
+P:\ЯЮниор C#\C-Sharp-Practice\MatrixMaxElement\MatrixMaxElement\obj\Debug\MatrixMaxElement.pdb
