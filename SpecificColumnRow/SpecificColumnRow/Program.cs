@@ -40,14 +40,14 @@ namespace SpecificColumnRow
                     Console.WriteLine();
                 }
 
-                for (int col = 0; col < matrix.GetLength(1); col++)
+                for (int columns = 0; columns < matrix.GetLength(1); columns++)
                 {
-                    sumSecondRow += matrix[1, col];
+                    sumSecondRow += matrix[1, columns];
                 }
 
-                for (int row = 0; row < matrix.GetLength(0); row++)
+                for (int rows = 0; rows < matrix.GetLength(0); rows++)
                 {
-                    productFirstColumn *= matrix[row, 0];
+                    productFirstColumn *= matrix[rows, 0];
                 }
 
                 Console.WriteLine("Сумма второй строки: " + sumSecondRow);
