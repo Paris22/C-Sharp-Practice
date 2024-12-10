@@ -7,20 +7,47 @@ namespace SpecificColumnRow
         static void Main(string[] args)
         {
             {
-                int[,] multiDimesionalArray = { { 1, 2, 3 }, { 4, 5, 6 } };
+                int rowsNumber;
+                int columnsNumber;
+                int sumSecondRow = 0;
+                int productFirstColumn = 1;
+                int randomLimit = 10;
+                Random random = new Random();
 
-                int sumSecondRow = multiDimesionalArray[1, 0] + multiDimesionalArray[1, 1] + multiDimesionalArray[1, 2];
-                int productFirstColumn = multiDimesionalArray[0, 0] * multiDimesionalArray[1, 0];
+                Console.WriteLine("Введите кол-во строк в матрице");
+                rowsNumber = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Введите кол-во столбцов в матрице");
+                columnsNumber = Convert.ToInt32(Console.ReadLine());
+
+                int[,] matrix = new int[rowsNumber, columnsNumber];
+
+
+                if (matrix.GetLength(0) < 2 || matrix.GetLength(1) < 1)
+                {
+                    Console.WriteLine("Массив должен содержать как минимум 2 строки и 1 столбец.");
+                    return;
+                }
 
                 Console.WriteLine("Исходная матрица:");
-
-                for (int rows = 0; rows < multiDimesionalArray.GetLength(0); rows++)
+                for (int rows = 0; rows < matrix.GetLength(0); rows++)
                 {
-                    for (int columns = 0; columns < multiDimesionalArray.GetLength(1); columns++)
+                    for (int columns = 0; columns < matrix.GetLength(1); columns++)
                     {
-                        Console.Write(multiDimesionalArray[rows, columns] + " ");
+                        matrix[rows, columns] = random.Next(randomLimit);
+                        Console.Write(matrix[rows, columns] + " ");
                     }
+
                     Console.WriteLine();
+                }
+
+                for (int col = 0; col < matrix.GetLength(1); col++)
+                {
+                    sumSecondRow += matrix[1, col];
+                }
+
+                for (int row = 0; row < matrix.GetLength(0); row++)
+                {
+                    productFirstColumn *= matrix[row, 0];
                 }
 
                 Console.WriteLine("Сумма второй строки: " + sumSecondRow);
