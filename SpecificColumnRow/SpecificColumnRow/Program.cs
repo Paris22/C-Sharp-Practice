@@ -14,6 +14,9 @@ namespace SpecificColumnRow
                 int randomLimit = 10;
                 Random random = new Random();
 
+                int minRowsNumber = 2;
+                int minColumnsNumber = 1;
+
                 Console.WriteLine("Введите кол-во строк в матрице");
                 rowsNumber = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("Введите кол-во столбцов в матрице");
@@ -22,9 +25,9 @@ namespace SpecificColumnRow
                 int[,] matrix = new int[rowsNumber, columnsNumber];
 
 
-                if (matrix.GetLength(0) < 2 || matrix.GetLength(1) < 1)
+                if (matrix.GetLength(0) < minRowsNumber || matrix.GetLength(1) < minColumnsNumber)
                 {
-                    Console.WriteLine("Массив должен содержать как минимум 2 строки и 1 столбец.");
+                    Console.WriteLine($"Массив должен содержать как минимум {minRowsNumber} строки и {minColumnsNumber} столбец.");
                     return;
                 }
 
