@@ -10,6 +10,7 @@ namespace MatrixMaxElement
             int columnsNumber = 10;
             int[,] matrix = new int[rowsNumber, columnsNumber];
             int maxElement = int.MinValue;
+            int numberChangesMax = 0;
 
             Random random = new Random();
             int randomLimit = 10;
@@ -43,14 +44,14 @@ namespace MatrixMaxElement
                 {
                     if (matrix[rows, columns] == maxElement)
                     {
-                        matrix[rows, columns] = 0;
+                        matrix[rows, columns] = numberChangesMax;
                     }
                 }
             }
 
             Console.WriteLine($"Максимальный элемент: {maxElement}");
 
-            Console.WriteLine("Матрица после замены максимального элемента на ноль:");
+            Console.WriteLine($"Матрица после замены максимального элемента на {numberChangesMax}:");
             for (int rows = 0; rows < matrix.GetLength(0); rows++)
             {
                 for (int columns = 0; columns < matrix.GetLength(1); columns++)
