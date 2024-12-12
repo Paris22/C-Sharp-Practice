@@ -6,37 +6,40 @@ namespace LocalMaxInArray
     {
         static void Main(string[] args)
         {
-            int arrayLength = 30;
-            int[] initArray = new int[arrayLength];
-            int initArrayLength = initArray.Length;
-
+            int userInputArrayLength;
             Random random = new Random();
             int randomLimit = 10;
 
+            Console.Write("Введите длину массива: ");
+            userInputArrayLength = Convert.ToInt32(Console.ReadLine());
+            int[] array = new int[userInputArrayLength];
+
             Console.Write("Исходный массив: ");
-            for (int index = 0; index < initArray.Length; index++)
+
+            for (int index = 0; index < array.Length; index++)
             {
-                initArray[index] = random.Next(randomLimit);
-                Console.Write(initArray[index]);
+                array[index] = random.Next(randomLimit);
+                Console.Write(array[index]);
             }
 
             Console.Write("\nЛокальные максимумы: ");
-            if (initArrayLength > 1 && initArray[0] > initArray[1])
+
+            if (array.Length > 1 && array[0] > array[1])
             {
-                Console.Write(initArray[0]);
+                Console.Write(array[0]);
             }
 
-            for (int index = 1; index < initArrayLength - 1; index++)
+            for (int index = 1; index < array.Length - 1; index++)
             {
-                if (initArray[index] > initArray[index - 1] && initArray[index] > initArray[index + 1])
+                if (array[index] > array[index - 1] && array[index] > array[index + 1])
                 {
-                    Console.Write(initArray[index]);
+                    Console.Write(array[index]);
                 }
             }
 
-            if (initArrayLength > 1 && initArray[initArrayLength - 1] > initArray[initArrayLength - 2])
+            if (array.Length > 1 && array[array.Length - 1] > array[array.Length - 2])
             {
-                Console.Write(initArray[initArrayLength - 1]);
+                Console.Write(array[array.Length - 1]);
             }
         }
     }
