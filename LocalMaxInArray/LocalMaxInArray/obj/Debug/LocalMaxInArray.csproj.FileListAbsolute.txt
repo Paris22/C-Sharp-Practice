@@ -1,0 +1,7 @@
+P:\ЯЮниор C#\C-Sharp-Practice\LocalMaxInArray\LocalMaxInArray\bin\Debug\LocalMaxInArray.exe.config
+P:\ЯЮниор C#\C-Sharp-Practice\LocalMaxInArray\LocalMaxInArray\bin\Debug\LocalMaxInArray.exe
+P:\ЯЮниор C#\C-Sharp-Practice\LocalMaxInArray\LocalMaxInArray\bin\Debug\LocalMaxInArray.pdb
+P:\ЯЮниор C#\C-Sharp-Practice\LocalMaxInArray\LocalMaxInArray\obj\Debug\LocalMaxInArray.csproj.AssemblyReference.cache
+P:\ЯЮниор C#\C-Sharp-Practice\LocalMaxInArray\LocalMaxInArray\obj\Debug\LocalMaxInArray.csproj.CoreCompileInputs.cache
+P:\ЯЮниор C#\C-Sharp-Practice\LocalMaxInArray\LocalMaxInArray\obj\Debug\LocalMaxInArray.exe
+P:\ЯЮниор C#\C-Sharp-Practice\LocalMaxInArray\LocalMaxInArray\obj\Debug\LocalMaxInArray.pdb
