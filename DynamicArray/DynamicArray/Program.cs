@@ -1,4 +1,6 @@
-﻿namespace DynamicArray
+﻿using System;
+
+namespace DynamicArray
 {
     internal class Program
     {
@@ -9,6 +11,9 @@
             const string CommandExitConsole = "3";
 
             bool isConsoleMenuWork = true;
+
+            Random random = new Random();
+            string userInput;
         }
     }
 }
