@@ -14,6 +14,24 @@ namespace DynamicArray
 
             Random random = new Random();
             string userInput;
+
+            int sumNumbers = 0;
+
+            userInput = Console.ReadLine();
+
+            while (isConsoleMenuWork)
+            {
+
+                switch (userInput)
+                {
+                    case CommandExitConsole:
+                        isConsoleMenuWork = false;
+                        break;
+
+                    default:
+                        break;
+                }
+            }
         }
     }
 }
