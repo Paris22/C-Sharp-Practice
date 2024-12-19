@@ -6,9 +6,8 @@ namespace DynamicArray
     {
         static void Main(string[] args)
         {
-            const string CommandInputNumbers = "1";
-            const string CommandSumNumbers = "2";
-            const string CommandExitConsole = "3";
+            const string CommandSumNumbers = "Сумма";
+            const string CommandExitConsole = "Выход";
 
             bool isConsoleMenuWork = true;
 
@@ -16,6 +15,8 @@ namespace DynamicArray
             string userInput;
             string inputNumbers;
 
+            int[] array = new int[1];
+            int[] extendArray = new int[array.Length + 1];
             int sumNumbers = 0;
 
             userInput = Console.ReadLine();
@@ -23,18 +24,23 @@ namespace DynamicArray
             while (isConsoleMenuWork)
             {
 
+                Console.Write("Текущий массив: ");
+                foreach (int number in array)
+                {
+                    Console.Write(number);
+                }
+
                 switch (userInput)
                 {
-                    case CommandInputNumbers:
-                        inputNumbers = Console.ReadLine();
-                        break;
                     case CommandSumNumbers:
+                        Console.WriteLine($"Сумма массива: {sumNumbers}");
                         break;
                     case CommandExitConsole:
                         isConsoleMenuWork = false;
                         break;
 
                     default:
+                        array[array.Length - 1] = Convert.ToInt32(userInput);
                         break;
                 }
             }

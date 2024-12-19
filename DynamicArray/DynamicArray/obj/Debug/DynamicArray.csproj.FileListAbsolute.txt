@@ -1,0 +1,7 @@
+P:\ЯЮниор C#\C-Sharp-Practice\DynamicArray\DynamicArray\bin\Debug\DynamicArray.exe.config
+P:\ЯЮниор C#\C-Sharp-Practice\DynamicArray\DynamicArray\bin\Debug\DynamicArray.exe
+P:\ЯЮниор C#\C-Sharp-Practice\DynamicArray\DynamicArray\bin\Debug\DynamicArray.pdb
+P:\ЯЮниор C#\C-Sharp-Practice\DynamicArray\DynamicArray\obj\Debug\DynamicArray.csproj.AssemblyReference.cache
+P:\ЯЮниор C#\C-Sharp-Practice\DynamicArray\DynamicArray\obj\Debug\DynamicArray.csproj.CoreCompileInputs.cache
+P:\ЯЮниор C#\C-Sharp-Practice\DynamicArray\DynamicArray\obj\Debug\DynamicArray.exe
+P:\ЯЮниор C#\C-Sharp-Practice\DynamicArray\DynamicArray\obj\Debug\DynamicArray.pdb
