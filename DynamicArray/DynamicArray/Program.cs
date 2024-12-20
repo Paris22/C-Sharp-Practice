@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace DynamicArray
 {
@@ -11,7 +11,6 @@ namespace DynamicArray
 
             bool isConsoleMenuWork = true;
 
-            Random random = new Random();
             string userInput;
             string inputNumbers;
 
