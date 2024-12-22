@@ -18,10 +18,12 @@ namespace DynamicArray
             while (isConsoleMenuWork)
             {
                 Console.Write("Текущий массив: ");
+
                 foreach (int number in array)
                 {
                     Console.Write(number + " ");
                 }
+
                 Console.WriteLine();
 
                 Console.Write("Введите число или команду (sum для суммы, exit для выхода): ");
@@ -32,9 +34,11 @@ namespace DynamicArray
                     case CommandSumNumbers:
                         Console.WriteLine($"Сумма массива: {sumNumbers}");
                         break;
+
                     case CommandExitConsole:
                         isConsoleMenuWork = false;
                         break;
+
                     default:
                         if (int.TryParse(userInput, out int number))
                         {
@@ -55,6 +59,7 @@ namespace DynamicArray
                         {
                             Console.WriteLine("Некорректный ввод. Пожалуйста, введите число или команду.");
                         }
+
                         break;
                 }
             }
