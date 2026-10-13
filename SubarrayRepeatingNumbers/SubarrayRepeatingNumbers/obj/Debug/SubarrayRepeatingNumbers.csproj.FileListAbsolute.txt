@@ -1,0 +1,8 @@
+D:\ЯЮниор C#\C-Sharp-Practice\SubarrayRepeatingNumbers\SubarrayRepeatingNumbers\obj\Debug\SubarrayRepeatingNumbers.csproj.AssemblyReference.cache
+D:\ЯЮниор C#\C-Sharp-Practice\SubarrayRepeatingNumbers\SubarrayRepeatingNumbers\obj\Debug\SubarrayRepeatingNumbers.csproj.CoreCompileInputs.cache
+D:\ЯЮниор C#\C-Sharp-Practice\SubarrayRepeatingNumbers\SubarrayRepeatingNumbers\bin\Debug\SubarrayRepeatingNumbers.exe.config
+D:\ЯЮниор C#\C-Sharp-Practice\SubarrayRepeatingNumbers\SubarrayRepeatingNumbers\bin\Debug\SubarrayRepeatingNumbers.exe
+D:\ЯЮниор C#\C-Sharp-Practice\SubarrayRepeatingNumbers\SubarrayRepeatingNumbers\bin\Debug\SubarrayRepeatingNumbers.pdb
+D:\ЯЮниор C#\C-Sharp-Practice\SubarrayRepeatingNumbers\SubarrayRepeatingNumbers\obj\Debug\SubarrayRepeatingNumbers.exe
+D:\ЯЮниор C#\C-Sharp-Practice\SubarrayRepeatingNumbers\SubarrayRepeatingNumbers\obj\Debug\SubarrayRepeatingNumbers.pdb
+D:\ЯЮниор C#\C-Sharp-Practice\SubarrayRepeatingNumbers\SubarrayRepeatingNumbers\obj\Debug\SubarrayRepeatingNumbers.exe.config

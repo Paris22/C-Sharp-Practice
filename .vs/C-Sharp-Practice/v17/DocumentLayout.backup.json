@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\\u042F\u042E\u043D\u0438\u043E\u0440 C#\\C-Sharp-Practice\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u042F\u042E\u043D\u0438\u043E\u0440 C#\\C-Sharp-Practice\\SubarrayRepeatingNumbers\\SubarrayRepeatingNumbers\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SubarrayRepeatingNumbers\\SubarrayRepeatingNumbers\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u042F\u042E\u043D\u0438\u043E\u0440 C#\\C-Sharp-Practice\\\u0421rystalStore\\\u0421rystalStore\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u0421rystalStore\\\u0421rystalStore\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u042F\u042E\u043D\u0438\u043E\u0440 C#\\C-Sharp-Practice\\\u0421rystalStore\\\u0421rystalStore\\Program.cs",
+              "RelativeDocumentMoniker": "\u0421rystalStore\\\u0421rystalStore\\Program.cs",
+              "ToolTip": "D:\\\u042F\u042E\u043D\u0438\u043E\u0440 C#\\C-Sharp-Practice\\\u0421rystalStore\\\u0421rystalStore\\Program.cs",
+              "RelativeToolTip": "\u0421rystalStore\\\u0421rystalStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:43:42.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u042F\u042E\u043D\u0438\u043E\u0440 C#\\C-Sharp-Practice\\SubarrayRepeatingNumbers\\SubarrayRepeatingNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "SubarrayRepeatingNumbers\\SubarrayRepeatingNumbers\\Program.cs",
+              "ToolTip": "D:\\\u042F\u042E\u043D\u0438\u043E\u0440 C#\\C-Sharp-Practice\\SubarrayRepeatingNumbers\\SubarrayRepeatingNumbers\\Program.cs",
+              "RelativeToolTip": "SubarrayRepeatingNumbers\\SubarrayRepeatingNumbers\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T07:57:44.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
