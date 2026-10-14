@@ -20,9 +20,9 @@ namespace SubarrayRepeatingNumbers
             Console.Write(string.Join(", ", numbers));
             Console.WriteLine(" }");
 
-            for (int i = 1; i < numbers.Length; i++)
+            for (int i = 1; i <= numbers.Length; i++)
             {
-                if (numbers[i] == numbers[i - 1])
+                if (i < numbers.Length && numbers[i] == numbers[i - 1])
                 {
                     currentCountOfRepeat++;
                 }
@@ -34,15 +34,12 @@ namespace SubarrayRepeatingNumbers
                         maxRepeatingNumber = currentRepeatingNumber;
                     }
 
-                    currentRepeatingNumber = numbers[i];
-                    currentCountOfRepeat = 1;
+                    if (i < numbers.Length)
+                    {
+                        currentRepeatingNumber = numbers[i];
+                        currentCountOfRepeat = 1;
+                    }
                 }
-            }
-
-            if (currentCountOfRepeat > maxCountOfRepeat)
-            {
-                maxCountOfRepeat = currentCountOfRepeat;
-                maxRepeatingNumber = currentRepeatingNumber;
             }
 
             Console.WriteLine($"Число {maxRepeatingNumber} повторяется {maxCountOfRepeat} раз(а) подряд.");
