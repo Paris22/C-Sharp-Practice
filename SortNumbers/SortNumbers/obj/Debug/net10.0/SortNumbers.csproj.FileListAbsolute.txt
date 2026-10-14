@@ -1,0 +1,16 @@
+D:\ЯЮниор C#\C-Sharp-Practice\SortNumbers\SortNumbers\bin\Debug\net10.0\SortNumbers.exe
+D:\ЯЮниор C#\C-Sharp-Practice\SortNumbers\SortNumbers\bin\Debug\net10.0\SortNumbers.deps.json
+D:\ЯЮниор C#\C-Sharp-Practice\SortNumbers\SortNumbers\bin\Debug\net10.0\SortNumbers.runtimeconfig.json
+D:\ЯЮниор C#\C-Sharp-Practice\SortNumbers\SortNumbers\bin\Debug\net10.0\SortNumbers.dll
+D:\ЯЮниор C#\C-Sharp-Practice\SortNumbers\SortNumbers\bin\Debug\net10.0\SortNumbers.pdb
+D:\ЯЮниор C#\C-Sharp-Practice\SortNumbers\SortNumbers\obj\Debug\net10.0\SortNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЯЮниор C#\C-Sharp-Practice\SortNumbers\SortNumbers\obj\Debug\net10.0\SortNumbers.AssemblyInfoInputs.cache
+D:\ЯЮниор C#\C-Sharp-Practice\SortNumbers\SortNumbers\obj\Debug\net10.0\SortNumbers.AssemblyInfo.cs
+D:\ЯЮниор C#\C-Sharp-Practice\SortNumbers\SortNumbers\obj\Debug\net10.0\SortNumbers.csproj.CoreCompileInputs.cache
+D:\ЯЮниор C#\C-Sharp-Practice\SortNumbers\SortNumbers\obj\Debug\net10.0\SortNumbers.sourcelink.json
+D:\ЯЮниор C#\C-Sharp-Practice\SortNumbers\SortNumbers\obj\Debug\net10.0\SortNumbers.dll
+D:\ЯЮниор C#\C-Sharp-Practice\SortNumbers\SortNumbers\obj\Debug\net10.0\refint\SortNumbers.dll
+D:\ЯЮниор C#\C-Sharp-Practice\SortNumbers\SortNumbers\obj\Debug\net10.0\SortNumbers.pdb
+D:\ЯЮниор C#\C-Sharp-Practice\SortNumbers\SortNumbers\obj\Debug\net10.0\SortNumbers.genruntimeconfig.cache
+D:\ЯЮниор C#\C-Sharp-Practice\SortNumbers\SortNumbers\obj\Debug\net10.0\ref\SortNumbers.dll
+D:\ЯЮниор C#\C-Sharp-Practice\SortNumbers\SortNumbers\obj\Debug\net10.0\SortNumb.FD95A5D3.Up2Date
