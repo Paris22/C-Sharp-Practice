@@ -1,0 +1,16 @@
+D:\ЯЮниор C#\C-Sharp-Practice\SplitString\SplitString\bin\Debug\net10.0\SplitString.exe
+D:\ЯЮниор C#\C-Sharp-Practice\SplitString\SplitString\bin\Debug\net10.0\SplitString.deps.json
+D:\ЯЮниор C#\C-Sharp-Practice\SplitString\SplitString\bin\Debug\net10.0\SplitString.runtimeconfig.json
+D:\ЯЮниор C#\C-Sharp-Practice\SplitString\SplitString\bin\Debug\net10.0\SplitString.dll
+D:\ЯЮниор C#\C-Sharp-Practice\SplitString\SplitString\bin\Debug\net10.0\SplitString.pdb
+D:\ЯЮниор C#\C-Sharp-Practice\SplitString\SplitString\obj\Debug\net10.0\SplitString.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЯЮниор C#\C-Sharp-Practice\SplitString\SplitString\obj\Debug\net10.0\SplitString.AssemblyInfoInputs.cache
+D:\ЯЮниор C#\C-Sharp-Practice\SplitString\SplitString\obj\Debug\net10.0\SplitString.AssemblyInfo.cs
+D:\ЯЮниор C#\C-Sharp-Practice\SplitString\SplitString\obj\Debug\net10.0\SplitString.csproj.CoreCompileInputs.cache
+D:\ЯЮниор C#\C-Sharp-Practice\SplitString\SplitString\obj\Debug\net10.0\SplitString.sourcelink.json
+D:\ЯЮниор C#\C-Sharp-Practice\SplitString\SplitString\obj\Debug\net10.0\SplitString.dll
+D:\ЯЮниор C#\C-Sharp-Practice\SplitString\SplitString\obj\Debug\net10.0\refint\SplitString.dll
+D:\ЯЮниор C#\C-Sharp-Practice\SplitString\SplitString\obj\Debug\net10.0\SplitString.pdb
+D:\ЯЮниор C#\C-Sharp-Practice\SplitString\SplitString\obj\Debug\net10.0\SplitString.genruntimeconfig.cache
+D:\ЯЮниор C#\C-Sharp-Practice\SplitString\SplitString\obj\Debug\net10.0\ref\SplitString.dll
+D:\ЯЮниор C#\C-Sharp-Practice\SplitString\SplitString\obj\Debug\net10.0\SplitStr.1D073702.Up2Date
