@@ -7,8 +7,9 @@ namespace SplitString
         public static void Main(string[] args)
         {
             string text = "Какой-то текст с пробелами";
+            char splitter = ' ';
 
-            string[] words = text.Split(' ');
+            string[] words = text.Split(splitter);
 
             foreach (string word in words)
             {
